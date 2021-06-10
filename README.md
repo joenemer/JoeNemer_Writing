@@ -4,7 +4,7 @@ Hello and thanks for checking out this selection of writing samples.
 
 # Cloud Academy
 
-## Technical-leaning data report / blog posts
+## Technical blog posts
 
 [Where the Tech Jobs Are: Cloud Academy June 2019 Data Report](https://cloudacademy.com/research/where-the-tech-jobs-are-cloud-academy-june-2019-data-report/)
 
@@ -12,7 +12,7 @@ Hello and thanks for checking out this selection of writing samples.
 
 [Google Cloud vs AWS: A Comparison (or can they be compared?)](https://cloudacademy.com/blog/google-cloud-vs-aws-a-comparison/)
 
-## Marketing- and PR-leaning blog posts
+## Marketing/PR blog posts
 
 [Announcing New Cloud Academy Pricing](https://cloudacademy.com/blog/announcing-new-cloud-academy-pricing/)
 
