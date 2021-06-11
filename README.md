@@ -1,4 +1,5 @@
 Hello and thanks for checking out this selection of writing samples.
+You can visit my LinkedIn profile [here](https://www.linkedin.com/in/jnemer/).
 
 ***
 
