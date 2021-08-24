@@ -5,6 +5,8 @@
 
 A QR code is an image with embedded data that can be scanned by another device – such as a smartphone – in order to perform a specific action.
 
+![alt text](https://github.com/joenemer/JoeNemer_Writing/blob/1200px-QR_code_for_mobile_English_Wikipedia.svg.png?raw=true)
+
 Whereas a standard barcode has a number of vertical black lines that need to be read by a special optical scanner, a QR code has data stored in two dimensions (vertically and horizontally). This, in addition to its ability to be read by many types of visual scanning devices, allows it to store more information and therefore have more flexibility in use.
 
 
