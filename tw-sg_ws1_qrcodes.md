@@ -72,7 +72,7 @@ Some uses for QR codes are as follows:
 
 
 * **Linking to a specific URL** - Creators are assured that users will go to the exact intended website.
-* **Joining a WiFi network **- Admins have fewer problems with users accessing networks, especially at large institutions such as universities.
+* **Joining a WiFi network** - Admins have fewer problems with users accessing networks, especially at large institutions such as universities.
 * **Exchanging personal contact info** - People can quickly share their contact info in a standard way such as via the vCard format.
 * **Creating touchless environments** - Businesses can provide info to customers such as menus during times when hygiene concerns are prevalent.
 * **Providing an app download link** - Product creators can increase the likelihood that users will download a mobile app by providing a direct link.
