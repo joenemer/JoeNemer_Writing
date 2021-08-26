@@ -7,7 +7,7 @@
 
 A QR (“Quick Read”) code is an image with embedded data that can be scanned by another device – such as a smartphone – in order to perform a specific action.
 
-[Generic barcode image with caption “Barcode”] [Generic QR code with caption “QR Code”]
+[Generic barcode image with caption “Barcode”] [Generic QR code image with caption “QR Code”]
 
 Whereas a standard barcode has a number of vertical black lines that need to be read by a special optical scanner, a QR code has data stored in two dimensions (vertically and horizontally). This, in addition to its ability to be read by many types of visual scanning devices, allows it to store more information and therefore have more flexibility in use.
 
