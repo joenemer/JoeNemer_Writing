@@ -25,15 +25,15 @@ You can visit my LinkedIn profile [here](https://www.linkedin.com/in/jnemer/).
 
 [Where the Tech Jobs Are: Cloud Academy June 2019 Data Report](https://drive.google.com/file/d/1hflwKV-1yZVnz_BPHFFl6HSOdIYVTtXO/view?usp=sharing)
 
-[Real-Time Application Monitoring with Amazon Kinesis](https://cloudacademy.com/blog/real-time-application-monitoring-with-amazon-kinesis/)
+[Real-Time Application Monitoring with Amazon Kinesis](https://drive.google.com/file/d/1m4MqJsFoQjhkjCe8eTlnDx4feBepq6sP/view?usp=sharing)
 
-[Google Cloud vs AWS: A Comparison (or can they be compared?)](https://cloudacademy.com/blog/google-cloud-vs-aws-a-comparison/)
+[Google Cloud vs AWS: A Comparison (or can they be compared?)](https://drive.google.com/file/d/1-niMJn-yovo88UxnOsGQmyABVOn7zZoT/view?usp=drive_link)
 
 ## Marketing/PR blog posts
 
-[Announcing New Cloud Academy Pricing](https://cloudacademy.com/blog/announcing-new-cloud-academy-pricing/)
+[Announcing New Cloud Academy Pricing](https://drive.google.com/file/d/1A7LVS42C1j5hP03Sq06r5PWWuuriJRmP/view?usp=drive_link)
 
-[Labs: Building Practical Cloud Skills at Scale](https://cloudacademy.com/blog/labs-building-practical-cloud-skills-at-scale/) (editing/ghostwriting)
+[Labs: Building Practical Cloud Skills at Scale](https://drive.google.com/file/d/1O4HDYiFTCExbQ3ynWe9QBPTMqz72Wupg/view?usp=drive_link) (editing/ghostwriting)
 
 [Using Kubernetes Certifications to Empower your Enterprise](https://www.toolbox.com/tech/enterprise-software/guest-article/using-kubernetes-certifications-to-empower-your-enterprise/) (request via PR company)
 
