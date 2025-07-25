@@ -23,7 +23,7 @@ You can visit my LinkedIn profile [here](https://www.linkedin.com/in/jnemer/).
 
 ## Technical blog posts
 
-[Where the Tech Jobs Are: Cloud Academy June 2019 Data Report](https://cloudacademy.com/research/where-the-tech-jobs-are-cloud-academy-june-2019-data-report/)
+[Where the Tech Jobs Are: Cloud Academy June 2019 Data Report](https://drive.google.com/file/d/1hflwKV-1yZVnz_BPHFFl6HSOdIYVTtXO/view?usp=sharing)
 
 [Real-Time Application Monitoring with Amazon Kinesis](https://cloudacademy.com/blog/real-time-application-monitoring-with-amazon-kinesis/)
 
